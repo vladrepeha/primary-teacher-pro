@@ -1,0 +1,4 @@
+interface:
+  display_name: "Primary Teacher Pro"
+  short_description: "Методически сильные уроки и учебные материалы"
+  default_prompt: "Use $primary-teacher-pro to create an engaging, age-appropriate lesson and classroom activities for my students."
